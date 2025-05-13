@@ -39,15 +39,3 @@ This application is designed to simplify the student admission process for educa
 - Crafting **efficient SQL queries** to handle large datasets smoothly
 
 ---
-
-## 📷 Screenshots
-
-> *(Add some screenshots of your application here — GUI, dashboard, etc. It helps others understand your project better.)*
-
----
-
-## 🏁 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
